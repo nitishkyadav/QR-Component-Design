@@ -54,8 +54,6 @@ I will focus more on Responsive Design Part
 - Frontend Mentor - [@nitishkyadav7115](https://www.frontendmentor.io/profile/nitishkyadav7115)
 - Twitter - [@nitish_yadav5](https://twitter.com/nitish_yadav5)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 I truly owe to [Virlus Jeanty](https://github.com/vjeanty02). It was only after playing around with his code, I was able to align the QR Component into the center of the screen by adding header to the Document.
