@@ -51,6 +51,7 @@ text-align: center;
 
 h2{
   color: hsl(218, 44%, 22%);
+  font-weight: 700;
 }
 p{
   color: hsl(220, 15%, 55%);
