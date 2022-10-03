@@ -30,8 +30,7 @@ Mobile Version:
 ### Links
 
 - Solution URL: [Github](https://github.com/nitishkyadav7115/QR-Component-Design)
-- Prefered Live Site URL: [CloudFlare Pages](https://qr-component-design.pages.dev/)
-- Other Live Site URL: [Personal Website](https://nitishkyadav.me/QR-Component-Design/)
+- Live Site URL: [CloudFlare Pages](https://qr-component-design.pages.dev/)
 
 * Deployment issue with Github Pages
 
